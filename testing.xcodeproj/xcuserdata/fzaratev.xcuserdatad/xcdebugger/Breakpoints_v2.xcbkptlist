@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8C55A28A-4FF2-443D-A27D-99E8E9DE651D"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23208842-EBD6-4F39-A01F-743BDBE3AB48"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "testing/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "toggleDropdown()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "23208842-EBD6-4F39-A01F-743BDBE3AB48 - de504f4142719ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in testing.ViewController.toggleDropdown() -&gt; ()"
+                  moduleName = "testing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fzaratev/Desktop/testing/testing/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "61"
+                  endingLineNumber = "61"
+                  offsetFromSymbolStart = "1504">
+               </Location>
+               <Location
+                  uuid = "23208842-EBD6-4F39-A01F-743BDBE3AB48 - de504f414271983"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in testing.ViewController.toggleDropdown() -&gt; ()"
+                  moduleName = "testing"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/fzaratev/Desktop/testing/testing/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "1504">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
